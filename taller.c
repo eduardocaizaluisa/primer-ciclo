@@ -1,4 +1,4 @@
-//El programa que hize calcula el indice de masa corporal (IMC) a partir del peso y la altura ingresados por el usuario:
+//El siguiente  programa calcula el indice de masa corporal (IMC) a partir del peso y la altura ingresados por el usuario:
     
 #include <stdio.h>
 
@@ -8,13 +8,13 @@ int main() {
     char nombre[20]; // Usamos un arreglo de caracteres para almacenar el nombre del usuario
     int edad;
 
-    // Aqui es utilizado printf para hacer que se muestre en pantalla el mensaje
+    // Se puede observarque se usa  printf para hacer que se muestre en pantalla el mensaje
     printf("Bienvenido al calculador de indice de masa corporal (IMC).\n");
 
     // le pide  al usuario que ingrese su nombre
     printf("Por favor, ingresa tu nombre: ");
 
-    // Aqui es utilizado scanf para hacer que guarde el nombre que nos da el usuario
+    // Aqui se puede observar que scanf se utiliza  para  guardar en memoria la variable nombre
     scanf("%s", nombre); // Leemos el nombre del usuario como una cadena de caracteres
 
     printf("Por favor, ingresa tu edad: ");
