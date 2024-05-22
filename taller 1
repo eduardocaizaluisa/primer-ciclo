@@ -1,4 +1,5 @@
-//El programa que hize calcula el indice de masa corporal (IMC) a partir del peso y la altura ingresados por el usuario:
+
+//El programa siguiente programa calcula el indice de masa corporal (IMC) a partir del peso y la altura ingresados por el usuario:
     
 #include <stdio.h>
 
