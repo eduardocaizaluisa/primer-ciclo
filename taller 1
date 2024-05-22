@@ -9,7 +9,7 @@ int main() {
     char nombre[20]; // Usamos un arreglo de caracteres para almacenar el nombre del usuario
     int edad;
 
-    // Aqui es utilizado printf para hacer que se muestre en pantalla el mensaje
+    // Aqui se utiliza printf para hacer que se muestre en pantalla el mensaje
     printf("Bienvenido al calculador de indice de masa corporal (IMC).\n");
 
     // le pide  al usuario que ingrese su nombre
